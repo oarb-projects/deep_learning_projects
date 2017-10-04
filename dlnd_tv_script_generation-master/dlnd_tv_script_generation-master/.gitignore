@@ -1,0 +1,8 @@
+.floydexpt
+.floydignore
+checkpoint
+data/
+params.p
+preprocess.p
+save.index
+save.meta
